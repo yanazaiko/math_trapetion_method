@@ -50,7 +50,7 @@ button:hover {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     margin: 0 auto;
     display: block;
-    max-width: 100%;
+    max-width: 400%;
 }
 
 #results {
@@ -61,5 +61,5 @@ button:hover {
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    max-width: 100%;
+    max-width: 400%;
 }
